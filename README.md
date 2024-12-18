@@ -1,4 +1,4 @@
-
+![logo](https://github.com/osama2604/osama2604/blob/main/senior-front-end-dev.jpg)
 <h1 align="center">Hi 👋, I'm Osama Ali</h1>
 <h3 align="center"> Frontend Developer | E-commercre Specialist </h3>
 
