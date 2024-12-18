@@ -1,4 +1,4 @@
-![logo](https://github.com/osama2604/osama2604/blob/main/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba-2.jpg)
+
 <h1 align="center">Hi 👋, I'm Osama Ali</h1>
 <h3 align="center">A passionate UI/UX Designer | Frontend Developer | Shopify Specialist from Pakistan.</h3>
 
